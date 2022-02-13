@@ -1,0 +1,533 @@
+# Translation of Themes - Twenty Nineteen in Lower Sorbian
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-14 14:12:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: dsb_DE\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Naša standardna drastwa 2019 jo se wuwiła, aby móc blokowego editora demonstrěrowała. Bitujo swójske stile za wšykne standardne bloki a jo tak strukturěrowany, až wšykno, což w editorje wiźiśo, teke na swójom websedle wiźiśo. Twenty Nineteen jo se wuwiła, aby se na wjeliku licbu websedłow pśiměriła, wšojadno, lěc fotoblog wjeźośo, nowy wobchod startujośo abo za wšě wužytnu organizaciju pódpěraśo. Z wjele proznym rumom a modernymi nadpismami w pismje bźez serifow, zjadnośona z klasiskim běžecym tekstom w pismje ze serifami, wóna na wobrazowkach wšych wjelikosćow rědnje wuglěda."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#: inc/block-patterns.php:195
+msgid "We help companies communicate with their customers."
+msgstr "Pomagamy pśedewześam pśi komunicěrowanju z jich kupcami."
+
+#: inc/block-patterns.php:195
+msgid "Spark interest on social media"
+msgstr "Zajm na socialnych medijach wubuźiś"
+
+#: inc/block-patterns.php:192
+msgid "We help businesses grow."
+msgstr "Pomagamy pśedewześam rosć."
+
+#: inc/block-patterns.php:192
+msgid "Activate new customers"
+msgstr "Nowe kupce aktiwěrowaś"
+
+#: inc/block-patterns.php:189
+msgid "We help startups define (or refine) a clear brand identity."
+msgstr "Pomagamy nowo załožonym pśedewześam jasnu markowu identitu definěrowaś (abo pólěpšowaś)."
+
+#: inc/block-patterns.php:189
+msgid "Redefine brands"
+msgstr "Marki nowo definěrowaś"
+
+#: inc/block-patterns.php:179 inc/block-patterns.php:186
+msgid "What We Do"
+msgstr "Což cynimy"
+
+#: inc/block-patterns.php:167
+msgid "Oddly enough, Doug Watson also grew up working alongside his parents at a family-owned restaurant in Queens, NY. He &nbsp;worked on digital campaigns for Fortune 500 Companies before joining Eva Green Consulting."
+msgstr "Jo źiwno, až Doug Watson jo wótrosł pla swójeju starjejšeju źěłajucy w gósćeńcu w familijowem wobsejźeństwje w Queens, New York. Jo źěłał na digitalnych kampanjach za pśedewześa Fortune 500, nježli až jo pśišeł k pśedewześeju Eva Young Consulting."
+
+#: inc/block-patterns.php:164
+msgid "Doug Watson"
+msgstr "Doug Watson"
+
+#: inc/block-patterns.php:159
+msgid "Eva Young grew up working alongside her parents at their restaurant in Queens, NY. She opened Eva Young Consulting in 2014 to help small businesses like her parents’ restaurant adapt to the digital age."
+msgstr "Eva Young jo wótrosła pla swójeju starjejšeju źěłajucy w jeju gósćeńcu w Queens, New York. Jo załožyła pśedewześe Eva Young Consulting w lěśe 2014, aby małym pśedewześam ako gósćeńcoju swójeju starjejšeju pomagała, se pominanjam digitalneje doby pśiměriś."
+
+#: inc/block-patterns.php:156
+msgid "Eva Young"
+msgstr "Eva Young"
+
+#: inc/block-patterns.php:145 inc/block-patterns.php:152
+msgid "Team"
+msgstr "Team"
+
+#: inc/block-patterns.php:131
+msgid "Content Strategy"
+msgstr "Wopśimjeśowa strategija"
+
+#: inc/block-patterns.php:126
+msgid "Copywriting"
+msgstr "Tekstowanje"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Marketing"
+
+#: inc/block-patterns.php:114
+msgid "Social Media"
+msgstr "Socialne medije"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Mobilny"
+
+#: inc/block-patterns.php:104
+msgid "Website Design"
+msgstr "Websedłowy design"
+
+#: inc/block-patterns.php:103 inc/block-patterns.php:108
+#: inc/block-patterns.php:113 inc/block-patterns.php:120
+#: inc/block-patterns.php:125 inc/block-patterns.php:130
+#: inc/block-patterns.php:155 inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Pśeběg"
+
+#: inc/block-patterns.php:92 inc/block-patterns.php:98
+msgid "Services"
+msgstr "Słužby"
+
+#: inc/block-patterns.php:80
+msgid "Contact Us"
+msgstr "Stajśo se z nami do zwiska"
+
+#: inc/block-patterns.php:74
+msgid "example@example.com"
+msgstr "pśikład@example.com"
+
+#: inc/block-patterns.php:74
+msgid "(555) 555-5555"
+msgstr "(+49) 123 - 44 55 77"
+
+#: inc/block-patterns.php:69
+msgid "New York, New York 10023"
+msgstr "03042 Chóśebuz"
+
+#: inc/block-patterns.php:69
+msgid "20 Cooper Avenue"
+msgstr "Barlińska droga"
+
+#: inc/block-patterns.php:58 inc/block-patterns.php:64
+msgid "Get In Touch"
+msgstr "Kontakt"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Dalšne informacije"
+
+#: inc/block-patterns.php:42
+msgid "Eva Young Consulting was founded in 2014 to meet the needs of small businesses in the San Francisco Bay Area. We help startups define a clear brand identity and digital strategy that will carry them through their financing rounds and scale as their business grows. Discover how we can boost your brand with a unique and powerful digital marketing strategy."
+msgstr "Eva Young Consulting jo se załožył w lěśe 2014, aby pótrjebam małych pśedewześow w Dolnej Łužycy wótpowědował. Pomagamy nowo załožonym pśedewześam jasnu markowu identitu a digitalnu strategiju definěrowaś, kótarejž je pśez jich financne rundy wjeźotej a měritej, kak jeju wobchod rosćo. Wótkryśo, kak móžośo wašu marku z jadnorazoweju a mócneju digitalneju marketingoweju strategiju mócowaś."
+
+#: inc/block-patterns.php:39
+msgid "Advocating for Businesses and Entrepreneurs since 2014"
+msgstr "Zastupowanje pśedewześow a pśedewześarjow wót lěta 2014"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Wó"
+
+#: classes/class-twentynineteen-walker-comment.php:98
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Waš komentar na moderaciju caka. To jo pśeglěd; waš komentar buźo widobny, za tym až jo se pśizwólił."
+
+#: functions.php:154
+msgid "Dark Blue"
+msgstr "Śamnomódry"
+
+#: functions.php:149
+msgid "Blue"
+msgstr "Módry"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Wózjawjony w</span><span class=\"post-title\">%s</span>"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Wózjawjony w</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Dopórucone"
+
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:60 inc/back-compat.php:83
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen se nanejmjenej wersiju 4.7 WordPress pomina. Wužywaśo wersiju %s. Pšosym aktualizěrujśo a wopytajśo hyšći raz."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Slědk"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Wěcej"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Za dopórucone wobraze primarnu barwu wužywaś"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Wužywajśo swójsku barwy za tłócaški, wótkaze, dopórucone wobraze atd."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Swójski"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Standard"
+
+#: functions.php:169
+msgid "White"
+msgstr "Běły"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "Swětłošery"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "Śamnošery"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Wjelicki"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:130
+msgid "Large"
+msgstr "Wjeliki"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Normalny"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Mały"
+
+#: footer.php:37 functions.php:60
+msgid "Footer Menu"
+msgstr "Nogowy meni"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Połna wjelikosć"
+
+#: image.php:56
+msgid "Page"
+msgstr "Bok"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "Pśidajśo asistenty, kótarež maju se w nogowej smužce zjawiś."
+
+#: functions.php:194 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Nogowa smužka"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Primarna barwa"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Žedne komentary"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d komentar"
+msgstr[1] "%d komentara"
+msgstr[2] "%d komentary"
+msgstr[3] "%d komentarow"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Dalšne pśinoski pokazaś"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Wózjawjony wót %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Górjejcny meni"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:225 template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\"> \"%s\"</span> dalej cytaś"
+
+#: image.php:52 template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Boki:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Zda se, až njamóžomy namakaś, což pytaśo. Snaź pytanje pomaga."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bóžko nic wašym pytańskim wurazam njewótpowědujo. Pšosym wopytajśo hyšći raz z drugimi klucowymi słowami."
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Sćo gótowy, swój prědny pśinosk wózjawiś? <a href=\"%s\">How zachopiś</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nic namakane"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Pjerwjejšny pśinosk:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Pjerwjejšny pśinosk"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Pśiducy pśinosk:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Pśiducy pśinosk"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Pytańske wuslědki za:"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Starše pśinoski"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Nowše pśinoski"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Wobznamjenja:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Pósłany w"
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Zawóstajśo komentar <span class=\"screen-reader-text\"> wó %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Wótpósłany wót"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Archiwy:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "Archiwy %s:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Archiw pśinoskowych typow:"
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Wšedne archiwy:"
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Mjasecne archiwy:"
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Lětne archiwy:"
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Archiwy awtorow:"
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Archiwy wobznamjenjow:"
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Archiwy kategorijow:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120 template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> wobźěłaś"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Dalej k wopśimjeśeju"
+
+#: functions.php:61 template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Meni socialnych wótkazow"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primarny"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Prezentěrujo se gjarźe wót %s."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Komentary su zacynjone."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Dalej"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Slědk"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "Komentary"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s wótegrono na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s wótegronje na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s wótegrona na &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s wótegronow na &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Jadno wótegrono na &ldquo;%s&rdquo;"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "Zawóstajśo komentar"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Pśizamkniśo se konwersaciji"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Waš komentar na moderaciju caka."
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "Wobźěłaś"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">groni:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Zda se, až njejo se namakało nic na toś tom městnje. Cośo pytanje wopytaś?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopla! Toś ten bok njedajo se namakaś."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Team WordPress"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://dsb.wordpress.org/"

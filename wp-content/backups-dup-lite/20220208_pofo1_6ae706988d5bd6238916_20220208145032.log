@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 08.02.2022 14:50
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.4
+WORDPRESS:	5.9
+PHP INFO:	7.1.33 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20220208_pofo1_6ae706988d5bd6238916_20220208145032_database.sql
+SQL FILE SIZE: 1.95MB (2045162)
+SQL FILE TIME: 2022-02-08 14:50:59
+SQL RUNTIME: 0.55 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/OpenServer/domains/Pofo1.loc
+ARCHIVE FILE: 20220208_pofo1_6ae706988d5bd6238916_20220208145032_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	224.66MB
+STATS:	Dirs 768 | Files 8,739
+SQL ADDED: 20220208_pofo1_6ae706988d5bd6238916_20220208145032_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9507
+    [filename] => C:\OpenServer\domains\Pofo1.loc\wp-content\backups-dup-lite\tmp\20220208_pofo1_6ae706988d5bd6238916_20220208145032_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9506
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 77.7MB
+ARCHIVE RUNTIME: 34.29 sec.
+MEMORY STACK: 2MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/OpenServer/domains/Pofo1.loc/wp-content/backups-dup-lite/tmp/20220208_pofo1_6ae706988d5bd6238916_20220208145032_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.95MB
+INSTALLER FILE: 64.59KB
+ARCHIVE FILE: 78.74MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,507
+ACTUAL FILE/DIRECTORY COUNT: 9,506
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 35.89 sec.
+PEAK PHP MEMORY USED: 2MB
+DONE PROCESSING => 20220208_pofo1 08.02.2022 14:51
+

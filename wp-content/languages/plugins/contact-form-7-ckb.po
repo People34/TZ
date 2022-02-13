@@ -1,0 +1,1534 @@
+# Translation of Plugins - Contact Form 7 - Stable (latest release) in Kurdish (Sorani)
+# This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-12 13:35:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ku_IQ\n"
+"Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
+
+#: includes/contact-form-template.php:42
+msgid "Submit"
+msgstr "بینێره‌"
+
+#: includes/contact-form-template.php:37
+msgid "(optional)"
+msgstr "(ئارەزوومەندانە)"
+
+#: admin/includes/welcome-panel.php:69
+msgid "disallowed list"
+msgstr "لیستی ڕێگە پێنەدراوە"
+
+#: modules/disallowed-list.php:35
+msgid "Disallowed words (%s) are used."
+msgstr "وشەی ڕێگەپێنەدراوەکان (%s) بەکاردەهێنرێ."
+
+#: modules/disallowed-list.php:32
+msgid "Disallowed words are used."
+msgstr "وشەی ڕێگەپێنەدراوە کان بەکار دەهێنرێ."
+
+#: includes/contact-form-functions.php:142
+msgid "Not Found"
+msgstr "هیچ نەدۆزرایەوە"
+
+#. translators: Developer debugging message. 1: PHP function name, 2:
+#. Explanatory message, 3: Contact Form 7 version number.
+#: includes/functions.php:607
+msgid "%1$s was called incorrectly. %2$s %3$s"
+msgstr "%1$s بە هەڵە بانگ کرا. %2$s %3$s"
+
+#. translators: %s: Contact Form 7 version number.
+#: includes/functions.php:599
+msgid "(This message was added in Contact Form 7 version %s.)"
+msgstr "(ئەم نامەیە زیادکرا لە فۆرمی پەیوەندی 7 وەشانی %s.)"
+
+#: includes/special-mail-tags.php:22 includes/special-mail-tags.php:97
+#: includes/special-mail-tags.php:164 includes/special-mail-tags.php:218
+#: modules/flamingo.php:297
+msgid "The fourth parameter ($mail_tag) must be an instance of the WPCF7_MailTag class."
+msgstr "پارامیتەری چوارەم ($mail_tag) دەبێت نمونەی WPCF7_MailTag."
+
+#. translators: time format, see https://www.php.net/date
+#: admin/includes/class-contact-forms-list-table.php:238
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: 1: date, 2: time
+#: admin/includes/class-contact-forms-list-table.php:234
+msgid "%1$s at %2$s"
+msgstr "%1$s لە %2$s"
+
+#: admin/edit-contact-form.php:197
+msgid "docs"
+msgstr "بەڵگەنامەکان"
+
+#. translators: 1: FAQ, 2: Docs ("FAQ & Docs")
+#: admin/edit-contact-form.php:190
+msgid "%1$s and %2$s"
+msgstr "%1$s و %2$s"
+
+#: admin/includes/editor.php:247
+msgid "Additional settings"
+msgstr "ڕێکخستنە زیادەکان"
+
+#: modules/constant-contact/service.php:311 modules/recaptcha/recaptcha.php:444
+#: modules/sendinblue/service.php:125 modules/sendinblue/service.php:133
+#: modules/stripe/service.php:142
+msgid "Error"
+msgstr "هەڵە"
+
+#: includes/config-validator.php:617
+msgid "The total size of attachment files is too large."
+msgstr "قەبارەی فایلە لکاوەکان زۆر زیادە."
+
+#: includes/config-validator.php:426
+msgid "Unavailable HTML elements are used in the form template."
+msgstr "بەشەکانی  HTML لە ڕووکار دەستپێگەیشتنی بۆ نییە و لە رووکار سوودی لێ گیراوە."
+
+#: modules/recaptcha/recaptcha.php:466
+msgid "reCAPTCHA is active on this site."
+msgstr "reCAPTCHA  لەم مالپەرە چالاک نییە."
+
+#: modules/recaptcha/recaptcha.php:123
+msgid "reCAPTCHA response token is empty."
+msgstr "توکێنی وڵامی reCAPTCHA  چۆڵە."
+
+#: includes/submission.php:577
+msgid "Submitted nonce is invalid."
+msgstr "nonce ناردراوە نادروستە."
+
+#: includes/submission.php:568
+msgid "User-Agent string is unnaturally short."
+msgstr "ڕشتەی بەکارهێنە-بریکارزۆر کورتە."
+
+#: modules/recaptcha/recaptcha.php:129
+msgid "reCAPTCHA score (%1$.2f) is lower than the threshold (%2$.2f)."
+msgstr "هەڤیازی reCAPTCHA (%1$.2f) کەمتر لە ئاستی (%2$.2f) ـــە."
+
+#: modules/akismet.php:64
+msgid "Akismet returns a spam response."
+msgstr "ئەکسیمت وڵامی هەرزەنامە دەگەڕێنێتەوە."
+
+#: modules/constant-contact/service.php:410
+msgctxt "API keys"
+msgid "Reset Keys"
+msgstr "گەڕانەوەی کلیلەکان"
+
+#: modules/constant-contact/service.php:339
+msgid "This site is connected to the Constant Contact API."
+msgstr "ئەم ماڵپەڕە بە Constant Contact API پەیوەندی هەیە."
+
+#: modules/constant-contact/service.php:318
+msgid "Configuration updated."
+msgstr "پەیکەرسازی بەڕۆژ بوو."
+
+#: modules/constant-contact/service.php:312
+msgid "Failed to establish connection. Please double-check your configuration."
+msgstr "پەیوەندی ئەنجام نەدرا،تکایە دووبارە پەیکەرسازی ڕێکبخە."
+
+#: modules/constant-contact/service.php:305
+msgid "Connection established."
+msgstr "پەیوەندی دامەزرا"
+
+#. translators: 1: response code, 2: message, 3: body, 4: URL
+#: includes/functions.php:646
+msgid "HTTP Response: %1$s %2$s %3$s from %4$s"
+msgstr "HTTP Response: %1$s %2$s %3$s from %4$s"
+
+#: modules/recaptcha/recaptcha.php:537 modules/stripe/service.php:249
+msgid "Save Changes"
+msgstr "پاشکەوتکردنی گۆڕانەکان"
+
+#: modules/recaptcha/recaptcha.php:456
+msgid "reCAPTCHA protects you against spam and other types of automated abuse. With Contact Form 7&#8217;s reCAPTCHA integration module, you can block abusive form submissions by spam bots. For details, see %s."
+msgstr "کەپچای ئاسایش ئێوە لە بەرابەر تەواو سپامەکان و هێرشەکانی دیکە دەپارێزێت. بە یارمەتی ماژۆڵی هاوئاهەنگی CF7 لەگەڵ کەپچای ئاسایس، ئێوە دەتوانن هێرشەکانی سپام و ڕۆبۆتەکان بۆ فۆرمەکەتان قەپات بکەن.. وردەزانیاریەکان %s."
+
+#: modules/recaptcha/recaptcha.php:201 modules/recaptcha/recaptcha.php:459
+msgid "reCAPTCHA (v3)"
+msgstr "کۆدی ئاسایش(وشانی ٣)"
+
+#: modules/recaptcha/recaptcha.php:198
+msgid "API keys for reCAPTCHA v3 are different from those for v2; keys for v2 don&#8217;t work with the v3 API. You need to register your sites again to get new keys for v3. For details, see %s."
+msgstr "کلیلەکانیAPI بۆ reCAPTCHA وشانی ٣ لەگەڵ کلیلەکانی وشانی ٢ جیاوازە ؛ کلیلەکانی وشانی ٢ لەگەڵ API وشانی ٣ ئیش ناکا. ئێوە دەبێ ماڵپەرەکەتان بۆ وەرگرتنی کلیل لە وشانی ٣ تۆمار بکەن. بۆ دیتنی وردەزانیاری، %s چاو لێبکەن."
+
+#: modules/constant-contact/service.php:415
+msgid "Connect to the Constant Contact API"
+msgstr "پەیوەندی بە Constant Contact API"
+
+#: modules/recaptcha/recaptcha.php:532 modules/stripe/service.php:245
+msgctxt "API keys"
+msgid "Remove Keys"
+msgstr "سڕینەوەی کلیلەکان"
+
+#: modules/constant-contact/service.php:402
+msgid "Set this URL as the redirect URI."
+msgstr "ئەم ناونیشانە(URL) بە عینوانی (URL) ڕێنما ڕێکبخەن."
+
+#: modules/constant-contact/service.php:395
+msgid "Redirect URI"
+msgstr "گۆڕانی شوێنی URL "
+
+#: modules/constant-contact/service.php:378
+msgid "App Secret"
+msgstr "Appی نهێنی"
+
+#: modules/constant-contact/service.php:361
+msgid "API Key"
+msgstr "کلیلی API"
+
+#: modules/constant-contact/service.php:349 modules/recaptcha/recaptcha.php:476
+#: modules/stripe/service.php:179
+msgid "Setup Integration"
+msgstr "دامەزراندنی تەواوکردن"
+
+#: admin/includes/welcome-panel.php:156
+#: modules/constant-contact/contact-form-properties.php:173
+#: modules/constant-contact/service.php:328
+msgid "https://contactform7.com/constant-contact-integration/"
+msgstr "https://contactform7.com/constant-contact-integration/"
+
+#: modules/constant-contact/service.php:326
+msgid "The Constant Contact integration module allows you to send contact data collected through your contact forms to the Constant Contact API. You can create reliable email subscription services in a few easy steps. For details, see %s."
+msgstr "مادۆڵی تێکڵآوکردنی Constant Contact ڕێتان پێدەدا تا زانیاری کۆکراوە لە ڕێگای فۆرمی پەیوەندی بە API Constant Contact بنێرن.. ئێوە دەتوانن خزمەتگوزاری هاوبەشی ئیمەیلی بەهێز لە چەند هەنگاو درووست بکەنخ.بۆ وردەزانیاری، %s چاولێبکەن."
+
+#: admin/includes/welcome-panel.php:157
+#: modules/constant-contact/contact-form-properties.php:181
+#: modules/constant-contact/contact-form-properties.php:281
+#: modules/constant-contact/service.php:101
+msgid "Constant Contact"
+msgstr "پێرستی پەیوەندی نەگۆڕ"
+
+#: includes/config-validator.php:679
+msgid "It is not allowed to use files outside the wp-content directory."
+msgstr "ڕێگە بە سوود وەرگرتنی پەڕگەکانی دەرەوەی مەسیری wp-content  نییە."
+
+#: modules/acceptance.php:275
+msgid "Make this checkbox optional"
+msgstr "ئەم خانەی پیاچونەوەیە بکە بەئارەزوومەندانە"
+
+#: admin/edit-contact-form.php:206
+msgid "Professional services"
+msgstr "خزمەتگوزاری کارامەکان"
+
+#: admin/edit-contact-form.php:205
+msgid "https://contactform7.com/custom-development/"
+msgstr "https://contactform7.com/custom-development/"
+
+#: admin/edit-contact-form.php:202
+msgid "Support forums"
+msgstr "سەکۆکانی پشتیوانیی"
+
+#: admin/edit-contact-form.php:201
+msgid "https://wordpress.org/support/plugin/contact-form-7/"
+msgstr "https://wordpress.org/support/plugin/contact-form-7/"
+
+#: admin/edit-contact-form.php:186
+msgid "Here are some available options to help solve your problems."
+msgstr "لێرە چەند هەڵبژاردە بۆ دەستپێگەیشتن بە چارەسەرکردن کێشەی ئێوە هەیە."
+
+#: admin/edit-contact-form.php:184
+msgid "Do you need help?"
+msgstr "پێویستت بە یارمەتییە ؟"
+
+#: modules/acceptance.php:266
+msgid "Condition"
+msgstr "مەرج"
+
+#. translators: 1: 'Consented' or 'Not consented', 2: conditions
+#: modules/acceptance.php:224
+msgctxt "mail output for acceptance checkboxes"
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: modules/acceptance.php:208
+msgid "Not consented"
+msgstr "ڕازی نیم."
+
+#: modules/acceptance.php:206
+msgid "Consented"
+msgstr "ڕازیم"
+
+#: includes/submission.php:95
+msgid "Sending mail has been aborted."
+msgstr "ناردنی نامە هەڵوەشێندراوە."
+
+#: admin/includes/editor.php:211
+msgid "You can edit messages used in various situations here. For details, see %s."
+msgstr "ئێوە دەتوانن پەیامەکانتان لە شوێنەکانی جیاواز لێرە دەستکاری بکەن. بۆ وردەزانیاری %s."
+
+#: admin/includes/editor.php:210
+msgid "Editing messages"
+msgstr "دەستکاری پەیامەکان"
+
+#: admin/includes/editor.php:209
+msgid "https://contactform7.com/editing-messages/"
+msgstr "https://contactform7.com/editing-messages/"
+
+#: admin/includes/editor.php:130
+msgid "You can edit the mail template here. For details, see %s."
+msgstr "ئێوە دەتوانن ڕووکاری ئیمەیل لێرە دەستکاری بکەن %s."
+
+#: admin/includes/editor.php:57
+msgid "You can edit the form template here. For details, see %s."
+msgstr "ئێوە دەتوانن ڕووکاری فۆرم لێرە دەستکاری بکەن %s."
+
+#: admin/includes/editor.php:56
+msgid "Editing form template"
+msgstr "دەستکاری ڕووکاری فۆرم"
+
+#: admin/includes/editor.php:55
+msgid "https://contactform7.com/editing-form-template/"
+msgstr "https://contactform7.com/editing-form-template/"
+
+#. translators: screen reader text
+#: admin/edit-contact-form.php:224
+msgid "(left and right arrow)"
+msgstr "(تیری ڕاست و چەپ)"
+
+#. translators: 1: ◀ ▶ dashicon, 2: screen reader text for the dashicon
+#: admin/edit-contact-form.php:219
+msgid "%1$s %2$s keys switch panels"
+msgstr "%1$s %2$s کلیلەکانی گۆڕانی پەنێلەکان"
+
+#. translators: screen reader text
+#: admin/admin.php:158
+msgid "(configuration error)"
+msgstr "(هەڵەی پەیکەرسازی)"
+
+#: admin/admin.php:151
+msgid "How to resolve?"
+msgstr "چۆنیەتی چارەسەرکردن ؟"
+
+#: admin/includes/welcome-panel.php:100
+msgid "Your donation will help encourage and support the plugin&#8217;s continued development and better user support."
+msgstr "یارمەتی مادی ئێوە پشتیوانی گەشەپێدانی بەردەوامی زیادکراوەیە و پاڵپشتیمان باشتر دەبێ لە بەکارهێنەران."
+
+#: admin/includes/welcome-panel.php:97
+msgid "making a donation"
+msgstr "ناردنی یارمەتی مادی"
+
+#. translators: %s: link labeled 'making a donation'
+#: admin/includes/welcome-panel.php:94
+msgid "If you enjoy using Contact Form 7 and find it useful, please consider %s."
+msgstr "گەر ئێوە لە فۆرمی ٧ خۆشتا ن هاتووە تکایە سەرنج بدەنە  %s."
+
+#: admin/includes/welcome-panel.php:91
+msgid "It is hard to continue development and support for this plugin without contributions from users like you."
+msgstr "دژوارە بۆ گەشەپێدان و پاڵپشتی لە ئەم زیادکراوە بێ یارمەتی بەکارهێنەرانی دیکە وەک ئێوە."
+
+#: includes/contact-form.php:519 includes/contact-form.php:1032
+msgid "This contact form is available only for logged in users."
+msgstr "ئەم فۆرمی پەیوەندی تەنها بۆ بەکارهێنەرانی ئەندام لە بەردەستە."
+
+#: includes/config-validator.php:152
+msgid "Deprecated settings are used."
+msgstr "ڕیکخستنەکانی نادروست بەکاربردراوە."
+
+#. translators: %s: link labeled 'Really Simple CAPTCHA'
+#: modules/really-simple-captcha.php:36
+msgid "To use CAPTCHA, you need %s plugin installed."
+msgstr "بۆ سوود وەرگرتن لە کەپچا(CAPTCHA) پێویستان بە دامەزراندنی زیادکراوەی  %s"
+
+#: includes/rest-api.php:306
+msgid "There was an error deleting the contact form."
+msgstr "هه‌ڵه‌یه‌ك هه‌بو له‌ پاك كردنه‌وه‌ی فۆرمی په‌یوه‌ندیكردن."
+
+#: includes/rest-api.php:66 includes/rest-api.php:82 includes/rest-api.php:98
+msgid "You are not allowed to access the requested contact form."
+msgstr "رێگه‌ت پێنه‌دراوه‌ بو فۆرمی په‌یوه‌ندی داواكراو ."
+
+#: includes/rest-api.php:230 includes/rest-api.php:252
+#: includes/rest-api.php:297 includes/rest-api.php:327
+#: includes/rest-api.php:385
+msgid "The requested contact form was not found."
+msgstr "فۆرمی داواكراو نه‌دۆزرایه‌وه‌."
+
+#: includes/rest-api.php:44
+msgid "You are not allowed to create a contact form."
+msgstr "ڕێگه‌ت پێنه‌دراوه‌ فۆرمی په‌یوه‌ندی دروست بكه‌ی."
+
+#: includes/rest-api.php:184
+msgid "Cannot create existing contact form."
+msgstr "ناتوانی فورمی به‌رده‌ست دروست بكه‌یت."
+
+#: includes/rest-api.php:30
+msgid "You are not allowed to access contact forms."
+msgstr "ڕێگه‌ت پێندراوه‌ بو فۆرمه‌كانی په‌یوه‌ندی كردن"
+
+#: includes/config-validator.php:661
+msgid "Attachment file does not exist at %path%."
+msgstr "پاشكۆی فایل نیه‌ له‌ %path%."
+
+#: includes/config-validator.php:537
+msgid "Invalid mailbox syntax is used in the %name% field."
+msgstr "تێکڵاو کردنی نامەدانی نادروست لە خشتی %name% بەکارگیراوە."
+
+#. translators: %names%: a list of form control names
+#: includes/config-validator.php:409
+msgid "Unavailable names (%names%) are used for form controls."
+msgstr "نامەکانی نادروست (%names%) بۆ چاودێری فۆرم بەکارگیراوە."
+
+#: includes/config-validator.php:150
+msgid "There are invalid mail header fields."
+msgstr "خانەکان سەردێر نادروستە."
+
+#: includes/config-validator.php:146
+msgid "HTML tags are used in a message."
+msgstr "تاگه‌كانی HTML به‌كارهێنراون له‌ نامه‌."
+
+#: includes/config-validator.php:144
+msgid "Sender email address does not belong to the site domain."
+msgstr "ناونیسانی ئیمەیلی نێرەر پەیوەندی بە دۆمەینی ماڵپەڕ نییە."
+
+#: includes/config-validator.php:142
+msgid "Invalid mailbox syntax is used."
+msgstr "تێکڵاوکردنی  نامەدان بێ باورە."
+
+#: includes/config-validator.php:140
+msgid "There is a possible empty field."
+msgstr "له‌وانه‌یه‌ فیڵدێك به‌تال بێت."
+
+#. translators: %s: number of errors detected
+#: admin/includes/class-contact-forms-list-table.php:137
+msgid "%s configuration error detected"
+msgid_plural "%s configuration errors detected"
+msgstr[0] "%s هه‌ڵه‌ دۆزرایه‌وه‌ له‌ شێوەپێدان."
+msgstr[1] "%s هه‌ڵه‌ دۆزرانه‌وه‌ له‌ شێوەپێدان."
+
+#: admin/admin.php:569 includes/rest-api.php:196 includes/rest-api.php:263
+msgid "There was an error saving the contact form."
+msgstr "لە پاشکەوتکردنی فۆرم هەڵەیێک ڕووی داوە."
+
+#: admin/admin.php:155
+msgid "%d configuration errors detected in this tab panel"
+msgstr "%d هه‌ڵه‌ دۆزرانه‌وه‌ له‌ شێوەپێدانی ئه‌م پانێله‌."
+
+#: admin/admin.php:154
+msgid "1 configuration error detected in this tab panel"
+msgstr "1 هه‌ڵه‌ دۆزراهیه‌وه‌ له‌م پانێله‌."
+
+#: admin/admin.php:153
+msgid "%d configuration errors detected"
+msgstr "%d هه‌ڵه‌ دۆزرانه‌وه‌ له‌ شێوەپێدان."
+
+#: admin/admin.php:152
+msgid "1 configuration error detected"
+msgstr "1هه‌ڵه‌ دۆزرایه‌وه‌"
+
+#. translators: 1: PHP function name, 2: version number, 3: alternative
+#. function name
+#. translators: 1: WordPress hook name, 2: version number, 3: alternative hook
+#. name
+#: includes/functions.php:537 includes/functions.php:574
+msgid "%1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
+msgstr "%1$s لە وشانی %2$s فۆرمی پەیوەندی<strong>بەتاڵ</strong> بووە! بەجیاتی ئەو لێرە %3$s سوود بگرن."
+
+#: admin/includes/welcome-panel.php:126
+msgid "Flamingo"
+msgstr "فلامینگۆ"
+
+#. translators: %s: link labeled 'Flamingo'
+#: admin/includes/welcome-panel.php:123
+msgid "Install a message storage plugin before this happens to you. %s saves all messages through contact forms into the database. Flamingo is a free WordPress plugin created by the same author as Contact Form 7."
+msgstr "پێش ئەوە ئەم ڕووداوە  ڕوو بدازیادکراوەی پاسکەوت کردنی پەیامەکان دامەزرێنن.%s دەبێت هۆکاریک بۆ پاسکەوتی تەواو پەیامەکان لە بنکەدراوە دەبێ.فلامینگۆ زیادکراوەیێکی خۆڕاییە کە لە لایەن دروستکەری فۆرمی پەیوەندی خولقێندراوە."
+
+#: admin/includes/welcome-panel.php:120
+msgid "Contact Form 7 doesn&#8217;t store submitted messages anywhere. Therefore, you may lose important messages forever if your mail server has issues or you make a mistake in mail configuration."
+msgstr "فۆرمی پەیوەندی ٧ پەیامی ناردراوە لە شوێنێک پاشکەوت ناکا.گەر ڕاژەی ئیمەیلی ئێوە کێشەی بێ یان لە پەیکەرسازی ئیمەیل هەڵەتان کردبێ،هۆکارە بۆ لەدەست دانی زانیاری گرینگ.."
+
+#: admin/includes/welcome-panel.php:114
+msgid "Before you cry over spilt mail&#8230;"
+msgstr "پێش ئەوە بۆ ئیمەیلە لە دەست چووەکانتان  خەمگین بن&#8230;"
+
+#: admin/includes/welcome-panel.php:68
+msgid "https://contactform7.com/comment-blacklist/"
+msgstr "https://contactform7.com/comment-blacklist/"
+
+#. translators: links labeled 1: 'Akismet', 2: 'reCAPTCHA', 3: 'disallowed
+#. list'
+#: admin/includes/welcome-panel.php:58
+msgid "Contact Form 7 supports spam-filtering with %1$s. Intelligent %2$s blocks annoying spambots. Plus, using %3$s, you can block messages containing specified keywords or those sent from specified IP addresses."
+msgstr "فۆرمی پەیوەندی ٧ لە لایەن  %1$s لە پالێوەری هەرزەنامە پشتیوانی دەکا.%2$s هۆشمەن، رۆبۆتەکانی هەرزەنامەی زیزکەر قەپات دەکا.بەروا بە سوود وەرگرتن لە  %3$s، دەتوانن پەیامەکان کە بریتین لە پەیام بە وشەی بێ ئەدەبی و ناجۆر بەتایبەت بە ئای-پی تایبەت قەپات بکەن."
+
+#: admin/includes/welcome-panel.php:55
+msgid "Spammers target everything; your contact forms aren&#8217;t an exception. Before you get spammed, protect your contact forms with the powerful anti-spam features Contact Form 7 provides."
+msgstr "هەرزەنامەکان و سپامەکان هەموو شتێک دەکەن بە ئامانج،تەنانەت فۆرمی پەیوەندی ٧ـی ئێوەش،پێش ئەوە ئامانجی ئەم هێرشانە بیت، فۆرمی پەیوەندیتان بە تایبەتمەندی دژە هەرزەنامە بەهێز بکەنەوە کە لە فۆرمی پەیوەندی ٧ دابین کراوە، تا بی پارێزێت."
+
+#: admin/includes/welcome-panel.php:49
+msgid "Getting spammed? You have protection."
+msgstr "هەرزەنامە وەردگرن؟ ئێوە پارێزەرتان هەیە."
+
+#: includes/config-validator.php:148
+msgid "Multiple form controls are in a single label element."
+msgstr "چەند کنترۆڵێ فۆرم لە یەک بەش تاک بوونی هەیە."
+
+#: admin/includes/config-validator.php:135
+msgid "FAQ about Configuration Validator"
+msgstr "پرسیار و وەڵام دەربارەی پەیکەرسازی باوڕپێکراو"
+
+#: admin/includes/config-validator.php:134
+msgid "https://contactform7.com/configuration-validator-faq/"
+msgstr "https://contactform7.com/configuration-validator-faq/"
+
+#: modules/text.php:204
+msgid "The telephone number is invalid."
+msgstr "ژمارەی تەلەفۆن دروست نییە."
+
+#: modules/text.php:197
+msgid "The URL is invalid."
+msgstr "URL نادروسته‌"
+
+#: modules/text.php:190
+msgid "The e-mail address entered is invalid."
+msgstr "ئیمەیلی نووسراوە نادروستە"
+
+#: modules/quiz.php:200
+msgid "The answer to the quiz is incorrect."
+msgstr "وەڵام بەم تاگیکردنەوە ناردوستە."
+
+#: modules/number.php:144
+msgid "The number is larger than the maximum allowed."
+msgstr "ژمارەی ئێوە فرە زۆرترە لە ژمارەیێکی ئاساییە."
+
+#: modules/number.php:139
+msgid "The number is smaller than the minimum allowed."
+msgstr "ژمارەی ئێوە کەمتر لە ژمارەیێکی ئاساییە."
+
+#: modules/number.php:134
+msgid "The number format is invalid."
+msgstr "شێواز و جۆری ژمارە نادروستە."
+
+#: includes/file.php:135
+msgid "There was an error uploading the file."
+msgstr "لە کاتی بارکردنی فایل هەڵەیێک ڕووی داوە."
+
+#: includes/file.php:130
+msgid "The file is too big."
+msgstr "پەڕگە فرە قەڤبارەی گەورەیە."
+
+#: includes/file.php:125
+msgid "You are not allowed to upload files of this type."
+msgstr "ئێوە ڕیگەتان پێ نەدراوە بۆ بارکردنی ئەم جۆرە پەڕگەیە."
+
+#: includes/file.php:120
+msgid "There was an unknown error uploading the file."
+msgstr "لە کاتی بارکردنی پەڕگە هەڵەیێک ڕووی داوە."
+
+#: modules/date.php:152
+msgid "The date is after the latest one allowed."
+msgstr "ڕێکەوت پاش دوایین بەرواری ڕێپێدراو."
+
+#: modules/date.php:147
+msgid "The date is before the earliest one allowed."
+msgstr "ڕێکەوت پێش دوایین بەرواری ڕێپێدراو."
+
+#: modules/date.php:142
+msgid "The date format is incorrect."
+msgstr "شیوازی بەرواو دروست نییە"
+
+#: includes/contact-form-template.php:213
+msgid "The field is too short."
+msgstr "ئەم خانەیە فرە کورتە."
+
+#: includes/contact-form-template.php:206
+msgid "The field is too long."
+msgstr "ئەم خانەیە فرە درێژە."
+
+#: includes/contact-form-template.php:199
+msgid "The field is required."
+msgstr "خانە پێویستە."
+
+#: includes/contact-form-template.php:192
+msgid "You must accept the terms and conditions before sending your message."
+msgstr "ئێوە دەبێ مەرجی پێش ناردنی پەیامی فۆرم  پەسەند بکەن."
+
+#: includes/contact-form-template.php:178
+msgid "One or more fields have an error. Please check and try again."
+msgstr "یەک یان چەند خانە هەڵەیان تێدایە،تکایە چاوی پێبخشێنە و دوبارە تاقی بکەنەوە."
+
+#: includes/contact-form-template.php:171
+#: includes/contact-form-template.php:185
+msgid "There was an error trying to send your message. Please try again later."
+msgstr "کاتی هەوڵدان بۆ ناردنی پەیامی ئێوە هەڵەیێک ڕووی داوە.تکایە دوبارە تاقی بکەرەوە."
+
+#: includes/contact-form-template.php:164
+msgid "Thank you for your message. It has been sent."
+msgstr "سپاس بۆ ئێوە بۆ ناردنی پەیام،پەیامەکەتان ناردرا."
+
+#. translators: 1: blog name, 2: [your-subject]
+#: includes/contact-form-template.php:52 includes/contact-form-template.php:96
+msgctxt "mail subject"
+msgid "%1$s \"%2$s\""
+msgstr "%1$s \"%2$s\""
+
+#: admin/includes/config-validator.php:48
+msgid "Misconfiguration leads to mail delivery failure or other troubles. Validate your contact forms now."
+msgstr "پەیکەرسازی نادروست دەبێت بە هۆکاری ناسەرکەوتوویی ناردنی نامە یان کێشەی دیکە.هەر ئێستا فۆرمی پەیوەندی خۆتان چاودێری بکەن."
+
+#: admin/includes/config-validator.php:45
+msgid "Validate Contact Form 7 Configuration"
+msgstr "پەسەندکردنی پەیکەرسازی فۆرمی ٧ "
+
+#: includes/config-validator.php:23
+msgid "https://contactform7.com/configuration-errors/"
+msgstr "https://contactform7.com/configuration-errors/"
+
+#: admin/admin.php:600
+msgid "Configuration validation completed. No invalid contact form was found."
+msgstr "پیرۆز بێ!پەیکەرسازی تەواو کرا. هیچ فۆرمێکی نادروست پەیدا نەبوو."
+
+#. translators: %s: number of contact forms
+#: admin/admin.php:586
+msgid "Configuration validation completed. %s invalid contact form was found."
+msgid_plural "Configuration validation completed. %s invalid contact forms were found."
+msgstr[0] "پیرۆز بێ!پەیکەرسازی تەواو کرا. %s هیچ فۆرمێکی نادروست پەیدا نەبوو."
+msgstr[1] "پیرۆز بێ!پەیکەرسازی تەواو کرا. %s هیچ فۆرمێکی نادروست پەیدا نەبوو."
+
+#: admin/includes/config-validator.php:124
+msgid "Validate Configuration"
+msgstr "سەلماندنی شێوەپێدان(پەیکەرسازی)"
+
+#. translators: %s: number of contact forms
+#: admin/includes/config-validator.php:112
+msgid "Validate %s contact form now"
+msgid_plural "Validate %s contact forms now"
+msgstr[0] "پشتگیری کردنی %s  فۆرمی پەیوەندی لە ئێستا"
+msgstr[1] "پشتگیری %s فۆرمەکانی پەیوەندی ئێستا"
+
+#: admin/includes/config-validator.php:70
+msgid "You are not allowed to validate configuration."
+msgstr "ئێوە ڕێگەتان پێنەدراوە بۆ تەواوکردنی پەیکەرسازی."
+
+#: admin/includes/welcome-panel.php:64 admin/includes/welcome-panel.php:164
+#: modules/recaptcha/recaptcha.php:200 modules/recaptcha/recaptcha.php:458
+msgid "https://contactform7.com/recaptcha/"
+msgstr "https://contactform7.com/recaptcha/"
+
+#: modules/recaptcha/recaptcha.php:508 modules/stripe/service.php:224
+msgid "Secret Key"
+msgstr "کلیلی نهێنی"
+
+#: modules/recaptcha/recaptcha.php:491
+msgid "Site Key"
+msgstr "کلیلی ماڵپەڕ"
+
+#: modules/recaptcha/recaptcha.php:450 modules/sendinblue/service.php:141
+#: modules/stripe/service.php:150
+msgid "Settings saved."
+msgstr "ڕێکخستن پاشکەوتکرا"
+
+#: modules/recaptcha/recaptcha.php:445 modules/sendinblue/service.php:134
+#: modules/stripe/service.php:143
+msgid "Invalid key values."
+msgstr "ژمارەی کلیل ناردوستە"
+
+#: admin/includes/welcome-panel.php:65 admin/includes/welcome-panel.php:165
+#: modules/recaptcha/recaptcha.php:234
+msgid "reCAPTCHA"
+msgstr "کۆدی ئاسایش"
+
+#: modules/really-simple-captcha.php:256
+msgid "CAPTCHA (Really Simple CAPTCHA)"
+msgstr "CAPTCHA( کەپچەیێکی زۆر سادە)"
+
+#. Author URI of the plugin
+msgid "https://ideasilo.wordpress.com/"
+msgstr "https://ideasilo.wordpress.com/"
+
+#. Author of the plugin
+msgid "Takayuki Miyoshi"
+msgstr "Takayuki Miyoshi"
+
+#. Description of the plugin
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr "تەنها پێوەکراوەیەکی تری فۆڕمی پەیوەندییە، سادەیە بەڵام گونجاوە."
+
+#. Plugin URI of the plugin
+msgid "https://contactform7.com/"
+msgstr "https://contactform7.com/"
+
+#. translators: title of your first contact form. %d: number fixed to '1'
+#: load.php:184
+msgid "Contact form %d"
+msgstr "فۆڕمی پەیوەندیی %d"
+
+#: modules/textarea.php:150
+msgid "Generate a form-tag for a multi-line text input field. For more details, see %s."
+msgstr "لەم بژاردە بۆ دەقی چەند هێڵی نووسراوە لە ناوەڕۆکی دەق سوود وەردەگیرێ، بۆ زانیاری فرەتر سەردانی %s بکەن."
+
+#: modules/textarea.php:142
+msgid "text area"
+msgstr "دەقی چەند هێڵی"
+
+#: modules/text.php:296
+msgid "This field requires author's URL"
+msgstr "ئەم خانەیە داوای ناونیشانی ئینتەرنێتیی دانەر دەکات"
+
+#: modules/text.php:291
+msgid "This field requires author's email address"
+msgstr "ئەم خانەیە داوای ناونیشانی پۆستی ئەلیکتڕۆنیی دانەر دەکات"
+
+#: modules/text.php:286
+msgid "This field requires author's name"
+msgstr "ئەم خانەیە داوای ناوی دانەر دەکات"
+
+#: admin/includes/welcome-panel.php:61 modules/text.php:278
+#: modules/text.php:281
+msgid "Akismet"
+msgstr "ئەکسیمەت"
+
+#: modules/text.php:246 modules/textarea.php:152
+msgid "Text fields"
+msgstr "خانەکانی دەق"
+
+#: modules/text.php:246 modules/textarea.php:152
+msgid "https://contactform7.com/text-fields/"
+msgstr "https://contactform7.com/text-fields/"
+
+#: modules/text.php:243
+msgid "Generate a form-tag for a single-line telephone number input field. For more details, see %s."
+msgstr "لەم بژاردە بۆ دروستکردنی ژمارە تەلەفۆن سوود دەگرین.بۆ زانیاری فرەتر سەردانی %s بکە."
+
+#: modules/text.php:241
+msgid "Generate a form-tag for a single-line URL input field. For more details, see %s."
+msgstr "لەم بژاردە بۆ  لکاندنی بەستەر یان لینک سوود دەگیرێ(وەک ناونیشانی ماڵپەڕ...).بۆ زانیاری فرەتر سەردانی %s بکە."
+
+#: modules/text.php:239
+msgid "Generate a form-tag for a single-line email address input field. For more details, see %s."
+msgstr "لەم بژاردە بۆ لکاندنی ناونیشانی نامەی ئێلێکترۆنی(ئیمەیل) سوود دەگرن.بۆ زانیاری فرەتر سەردانی %s بکە."
+
+#: modules/text.php:237
+msgid "Generate a form-tag for a single-line plain text input field. For more details, see %s."
+msgstr "لەم بژاردە بۆ نووسینی دەق لە زەمینەکانی ناردن سوود دەبینرێت.بۆ زانیاری فرەتر سەردانی %s بکە."
+
+#: modules/text.php:224
+msgid "tel"
+msgstr "تەلەفۆن"
+
+#: modules/text.php:222
+msgid "URL"
+msgstr "ناونیشانی ئینتەرنێتی"
+
+#: modules/text.php:220
+msgid "email"
+msgstr "ئیمەیل"
+
+#: modules/text.php:218
+msgid "text"
+msgstr "دەق"
+
+#: modules/text.php:202
+msgid "Telephone number that the sender entered is invalid"
+msgstr "کاتێ ئەو ژمارە تەلەفۆنەی نێرەرەکە داویەتی ناڕاستبوو:"
+
+#: modules/text.php:195
+msgid "URL that the sender entered is invalid"
+msgstr "کاتێ ئەو ناونیشانە ئینتەرنێتییەی نێرەرەکە دەی نووسێت؛ ناڕاست بێت:"
+
+#: modules/text.php:188
+msgid "Email address that the sender entered is invalid"
+msgstr "کاتێ ناونیشانی ئەو پۆستە ئەلیکتڕۆنییەی نێرەرەکە دەی نووسێت؛ ناڕاستە:"
+
+#: modules/submit.php:65
+msgid "Label"
+msgstr "پێناس"
+
+#: modules/submit.php:55
+msgid "Submit button"
+msgstr "دوگمەی ناردن"
+
+#: modules/submit.php:55
+msgid "https://contactform7.com/submit-button/"
+msgstr "https://contactform7.com/submit-button/"
+
+#: modules/submit.php:53
+msgid "Generate a form-tag for a submit button. For more details, see %s."
+msgstr "دروستکردنی فۆرمێکی تاگی دوگمەی ناردن، بۆ زانایری فرەتر سەردانی %s."
+
+#: modules/submit.php:46
+msgid "submit"
+msgstr "ناردن"
+
+#: modules/select.php:204
+msgid "Insert a blank item as the first option"
+msgstr "هەڵبژاردنی هێڵێکی چۆڵ بۆ یەکەمین هەڵبژاردە"
+
+#: modules/select.php:203
+msgid "Allow multiple selections"
+msgstr "ڕێگەدان بە هەڵبژاردنی چەند بژاردەیی"
+
+#: modules/select.php:170
+msgid "Generate a form-tag for a drop-down menu. For more details, see %s."
+msgstr "دروستکردنی مێنیۆی فۆرمی تاگ بۆ مێنیۆی پێرستی کێشان.بۆ زانیاری فرەتر سەردانی %s."
+
+#: modules/select.php:163
+msgid "drop-down menu"
+msgstr "مێنیۆی کێشانی خوارەوە"
+
+#: modules/quiz.php:244
+msgid "One pipe-separated question-answer pair (e.g. The capital of Brazil?|Rio) per line."
+msgstr "دانەیێک پایپ( | ) بۆ جوداکردنی جووتێک پرسیار و وەڵام(بۆ وینە پایتەختی برازیل؟ | ڕیۆ ) لە هەر هێلێک."
+
+#: modules/quiz.php:239 modules/quiz.php:242
+msgid "Questions and answers"
+msgstr "پرسیارەکان و وەڵامەکان"
+
+#: modules/quiz.php:224
+msgid "Quiz"
+msgstr "تاقیکردنەوە"
+
+#: modules/quiz.php:224
+msgid "https://contactform7.com/quiz/"
+msgstr "https://contactform7.com/quiz/"
+
+#: modules/quiz.php:222
+msgid "Generate a form-tag for a question-answer pair. For more details, see %s."
+msgstr "دروستکردنی فۆرمێکی تاگی بۆ جووتێ پرسیار-وەڵام، بۆ زانیاری فرەتر %s."
+
+#: modules/quiz.php:214
+msgid "quiz"
+msgstr "تاقیکردنەوە"
+
+#: modules/quiz.php:198
+msgid "Sender doesn't enter the correct answer to the quiz"
+msgstr "کاتێ نێرەرەکە وەڵامی کورتەتاقیکردنەوەکەی ڕاست نییە:"
+
+#: modules/number.php:182
+msgid "Slider"
+msgstr "سڵایدەر"
+
+#: modules/number.php:181
+msgid "Spinbox"
+msgstr "بۆکسی سپین"
+
+#: modules/number.php:166
+msgid "Number fields"
+msgstr "ژمارەی خانەکان"
+
+#: modules/number.php:166
+msgid "https://contactform7.com/number-fields/"
+msgstr "https://contactform7.com/number-fields/"
+
+#: modules/number.php:164
+msgid "Generate a form-tag for a field for numeric value input. For more details, see %s."
+msgstr "دروستکردنی فۆرمێکی تاگی بۆ خانەیێک لە هێنانی ژمارەیی بەها، بۆ زانیاری فرەتر %s."
+
+#: modules/number.php:156
+msgid "number"
+msgstr "ژمارە"
+
+#: modules/number.php:143
+msgid "Number is larger than maximum limit"
+msgstr "کاتێ ئەو ژمارەی نووسراوە؛ گەورەترە لە گەورەترین سنووری ڕێگە پێدراو:"
+
+#: modules/number.php:138
+msgid "Number is smaller than minimum limit"
+msgstr "کاتێ ئەو ژمارەی نووسراوە؛ بچووکترە لە بچووکترین سنووری ڕێگە پێدراو:"
+
+#: modules/number.php:133
+msgid "Number format that the sender entered is invalid"
+msgstr "کاتێ شێوازی ئەو ژمارەیەی نێرەرەکە نووسیویەتی؛ ناڕاستە:"
+
+#: modules/file.php:182
+msgid "To attach the file uploaded through this field to mail, you need to insert the corresponding mail-tag (%s) into the File Attachments field on the Mail tab."
+msgstr "ئەم فۆرمی پەیوەندییە بریتییە لە خشتی بارکردنی پەڕگە.بەڵام بوخچەی کاتی بۆ ئەم پەڕگە( %s ) بوونی نییە.یان توانایی نووسینی تێدانییە.ئێوە دەتوانن بوخچە دروست بکەن یان ئاستی دەسپێگەیشتن دابین بکەن."
+
+#: modules/file.php:154
+msgid "Acceptable file types"
+msgstr "ئەو جۆرە فایلانەی ڕێ پێدراوە"
+
+#: modules/file.php:149
+msgid "File size limit (bytes)"
+msgstr "سنوردار کردنی قەبارە(بایت)"
+
+#: modules/file.php:124
+msgid "File uploading and attachment"
+msgstr "بارکردن و کلاندنی پەڕگە"
+
+#: modules/file.php:124
+msgid "https://contactform7.com/file-uploading-and-attachment/"
+msgstr "https://contactform7.com/file-uploading-and-attachment/"
+
+#: modules/file.php:122
+msgid "Generate a form-tag for a file uploading field. For more details, see %s."
+msgstr "دروستکردنی فۆرم تاگێک بۆ بارکردنی خانە،بۆ زانیاری فەرەتر %s."
+
+#: modules/file.php:114
+msgid "file"
+msgstr "پەڕگە"
+
+#: includes/file.php:134
+msgid "Uploading a file fails for PHP error"
+msgstr "کاتێ بارکردنی فایلێک شکستی هێنا بە هۆی هەڵەیەکی پیئێچپییەوە:"
+
+#: includes/file.php:129
+msgid "Uploaded file is too large"
+msgstr "کاتێ فایلە بارکراوەکە گەورەتر بوو لە سنووری دیاریکراو:"
+
+#: includes/file.php:124
+msgid "Uploaded file is not allowed for file type"
+msgstr "پەڕگەی بارکراو ڕێگەپێنەدراوە بۆ جۆری پەڕگە"
+
+#: includes/file.php:119
+msgid "Uploading a file fails for any reason"
+msgstr "کاتێ بە هەرهۆیەک بارکردنی فایلێک شکستی هێنا:"
+
+#: modules/date.php:215 modules/number.php:212
+msgid "Max"
+msgstr "زۆرتر"
+
+#: modules/date.php:210 modules/number.php:207
+msgid "Min"
+msgstr "کەمتر"
+
+#: modules/date.php:205 modules/date.php:208 modules/number.php:202
+#: modules/number.php:205
+msgid "Range"
+msgstr "مەودا"
+
+#: modules/date.php:201 modules/number.php:198 modules/text.php:273
+#: modules/textarea.php:179
+msgid "Use this text as the placeholder of the field"
+msgstr "سوودوەرگرتن لەم هەڵگرە لەخانەی placeholder "
+
+#: modules/date.php:199 modules/number.php:196 modules/text.php:271
+#: modules/textarea.php:177
+msgid "Default value"
+msgstr "گۆڕاوی بنەڕەتی"
+
+#: modules/date.php:174
+msgid "Date field"
+msgstr "خانەی ڕێکەوت"
+
+#: modules/date.php:174
+msgid "https://contactform7.com/date-field/"
+msgstr "https://contactform7.com/date-field/"
+
+#: modules/date.php:172
+msgid "Generate a form-tag for a date input field. For more details, see %s."
+msgstr "دروەستکردنی فۆرمێکی تاگ بۆ خانەت ڕێکەوت،بۆ زانیاری فرەتر %s."
+
+#: modules/date.php:164
+msgid "date"
+msgstr "ڕێکەوت"
+
+#: modules/date.php:151
+msgid "Date is later than maximum limit"
+msgstr "کاتێ ڕێکەوتەکە درەنگترە لە درەنگترین کاتی ڕێ پێدراو:"
+
+#: modules/date.php:146
+msgid "Date is earlier than minimum limit"
+msgstr "کاتێ ڕێکەوتەکە زووترە لە زووترین کاتی ڕێ پێدراو:"
+
+#: modules/date.php:141
+msgid "Date format that the sender entered is invalid"
+msgstr "کاتێ شێوازی ئەو ڕێکەوتەی نێرەرەکە داویەتی ناڕاستە:"
+
+#: modules/checkbox.php:301 modules/date.php:245 modules/number.php:242
+#: modules/select.php:233 modules/text.php:329 modules/textarea.php:206
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr "لەم بژاردە بۆ نووسینی ئیمەیلی دڵخواز لە خشتی ئیمەیڵ (  mail-tag (%s)  ) سوود دەبینرێت."
+
+#: modules/checkbox.php:271
+msgid "Make checkboxes exclusive"
+msgstr "دروستکردنی چێک بۆکسی تایبەت"
+
+#: modules/checkbox.php:269
+msgid "Wrap each item with label element"
+msgstr "جێکردنەوەی هەر بڕگە لەگەڵ ئەندامی تاگ"
+
+#: modules/checkbox.php:268
+msgid "Put a label first, a checkbox last"
+msgstr "جێگیرکردنی تاگێک بۆ یەکەم جار،چێک بۆکسێک بۆ دوایین بار"
+
+#: modules/checkbox.php:267 modules/select.php:202
+msgid "One option per line."
+msgstr "هەر بژاردە لە هێڵێک"
+
+#: modules/checkbox.php:250 modules/date.php:188 modules/file.php:138
+#: modules/number.php:185 modules/select.php:186 modules/text.php:260
+#: modules/textarea.php:166
+msgid "Required field"
+msgstr "خانەکانی پێویست"
+
+#: modules/checkbox.php:246 modules/checkbox.php:249 modules/date.php:184
+#: modules/date.php:187 modules/file.php:134 modules/file.php:137
+#: modules/number.php:176 modules/number.php:179 modules/select.php:182
+#: modules/select.php:185 modules/text.php:256 modules/text.php:259
+#: modules/textarea.php:162 modules/textarea.php:165
+msgid "Field type"
+msgstr "جۆری خانە"
+
+#: modules/checkbox.php:235 modules/select.php:172
+msgid "Checkboxes, radio buttons and menus"
+msgstr "چێک بۆکس،دوگمەی ڕادیۆیی و مێنیۆکان"
+
+#: modules/checkbox.php:235 modules/select.php:172
+msgid "https://contactform7.com/checkboxes-radio-buttons-and-menus/"
+msgstr "https://contactform7.com/checkboxes-radio-buttons-and-menus/"
+
+#: modules/checkbox.php:232
+msgid "Generate a form-tag for a group of radio buttons. For more details, see %s."
+msgstr "دروەستکردنی فۆرمێک بۆ تاگ بۆ گرووپێک لە  دوگمەی رادیۆیی،بۆ زانیاری فرەتر %s."
+
+#: modules/checkbox.php:230
+msgid "Generate a form-tag for a group of checkboxes. For more details, see %s."
+msgstr "دروەستکردنی فۆرمێک بۆ تاگ بۆ گرووپێک لە چێک بۆکس،بۆ زانیاری فرەتر %s."
+
+#: modules/checkbox.php:217
+msgid "radio buttons"
+msgstr "دوگمەی ڕادیۆیی"
+
+#: modules/checkbox.php:215
+msgid "checkboxes"
+msgstr "چێک بۆکسەکان"
+
+#: modules/really-simple-captcha.php:377
+msgid "This contact form contains CAPTCHA fields, but the necessary libraries (GD and FreeType) are not available on your server."
+msgstr "ئەم فۆڕمی پەیوەندییە خانەی کاپچا لەخۆ دەگرێت، بەڵام ژێدەرگە پێویستەکان (GD و FreeType) لە سێرڤەرەکەتدا نییە."
+
+#: modules/really-simple-captcha.php:370
+msgid "This contact form contains CAPTCHA fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually."
+msgstr "ئەم فۆڕمی پەیوەندییە خانەی کاپچا لەخۆ دەگرێت، بەڵام فۆڵدەرە کاتییەکەی فایلەکان (%s) بوونی نییە یان ناتوانرێت دەستکاری بکرێت و شتی بۆ زیاد بکرێت، دەتوانی فۆڵدەرەکە دروست بکەیت یان وای لێبکەیت بتوانرێت دەستکاری بکرێت و شتی بۆ زیاد بکرێت."
+
+#: modules/really-simple-captcha.php:315
+msgid "Input field settings"
+msgstr "ڕێکخستنەکانی خانەی نووسین"
+
+#: modules/really-simple-captcha.php:300
+msgid "Image settings"
+msgstr "ڕێکخستەنەکانی وێنە"
+
+#: modules/really-simple-captcha.php:283
+msgid "https://contactform7.com/captcha/"
+msgstr "https://contactform7.com/captcha/"
+
+#: modules/really-simple-captcha.php:281
+msgid "Generate form-tags for a CAPTCHA image and corresponding response input field. For more details, see %s."
+msgstr "دروستکردنی فۆرمی تاگ بۆ کەپچەی وێنە و خانەی وەڵام، بۆ وردەکاری زۆرتر سەردانی %s بکە."
+
+#. translators: %s: link labeled 'Really Simple CAPTCHA'
+#: modules/really-simple-captcha.php:270
+msgid "To use CAPTCHA, you first need to install and activate %s plugin."
+msgstr "بۆ سوودوەرگرتن لە  CAPTCHA، بۆ یەکەمین بار ئێوە پێویستان بە دامەزراندن و چالاککردنی  %s زیادکراوەیە."
+
+#: modules/really-simple-captcha.php:283 modules/recaptcha/recaptcha.php:9
+msgid "CAPTCHA"
+msgstr "کاپچا"
+
+#: modules/really-simple-captcha.php:237
+msgid "Your entered code is incorrect."
+msgstr "ئەو کۆدەی نووسیوتە ناڕاستە."
+
+#: modules/really-simple-captcha.php:235
+msgid "The code that sender entered does not match the CAPTCHA"
+msgstr "کاتێ ئەو کۆدەی نێرەرەکە دەی نووسێ هاوشێوەی کاپچایەکە نییە:"
+
+#: modules/acceptance.php:299 modules/checkbox.php:296 modules/date.php:240
+#: modules/file.php:177 modules/number.php:237 modules/quiz.php:268
+#: modules/really-simple-captcha.php:335 modules/select.php:228
+#: modules/submit.php:88 modules/text.php:324 modules/textarea.php:201
+msgid "Insert Tag"
+msgstr "تاگ بنووسە"
+
+#: modules/acceptance.php:286 modules/checkbox.php:283 modules/date.php:228
+#: modules/file.php:164 modules/number.php:225 modules/quiz.php:255
+#: modules/really-simple-captcha.php:308 modules/really-simple-captcha.php:323
+#: modules/select.php:215 modules/submit.php:75 modules/text.php:311
+#: modules/textarea.php:188
+msgid "Class attribute"
+msgstr "تایبەتمەندی کڵاس"
+
+#: modules/acceptance.php:281 modules/checkbox.php:278 modules/date.php:223
+#: modules/file.php:159 modules/number.php:220 modules/quiz.php:250
+#: modules/really-simple-captcha.php:303 modules/really-simple-captcha.php:318
+#: modules/select.php:210 modules/submit.php:70 modules/text.php:306
+#: modules/textarea.php:183
+msgid "Id attribute"
+msgstr "تایبەتمەندی  ID"
+
+#: modules/acceptance.php:271 modules/acceptance.php:274
+#: modules/checkbox.php:262 modules/checkbox.php:265 modules/select.php:197
+#: modules/select.php:200
+msgid "Options"
+msgstr "ڕێکخستنەکان"
+
+#: modules/acceptance.php:261 modules/checkbox.php:257 modules/date.php:194
+#: modules/file.php:144 modules/number.php:191 modules/quiz.php:234
+#: modules/really-simple-captcha.php:293 modules/select.php:192
+#: modules/text.php:266 modules/textarea.php:172
+msgid "Name"
+msgstr "ناو"
+
+#: modules/acceptance.php:251
+msgid "Acceptance checkbox"
+msgstr "قبووڵکردنی چێک بۆکس"
+
+#: modules/acceptance.php:251
+msgid "https://contactform7.com/acceptance-checkbox/"
+msgstr "https://contactform7.com/acceptance-checkbox/"
+
+#: modules/acceptance.php:249
+msgid "Generate a form-tag for an acceptance checkbox. For more details, see %s."
+msgstr "دروستکردنی فۆرمێکی تاگ بۆ چێک بۆکسی ڕەزامەندی،بۆ زانیاری فرەتر، %s"
+
+#: modules/acceptance.php:241
+msgid "acceptance"
+msgstr "ڕەزامەندی"
+
+#: includes/contact-form.php:221
+msgid "<code>%1$s</code> property of a <code>WPCF7_ContactForm</code> object is <strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr "<code>%1$s</code>لە شتێکی دیکە <code>WPCF7_ContactForm</code> <strong>توانایی دەستپێگەیشتنی هەیە</strong> .لە شێوازی<code>%2$s</code>سوود بگرن."
+
+#: includes/contact-form.php:110 includes/contact-form.php:428
+msgid "Untitled"
+msgstr "بێناونیشان"
+
+#: includes/contact-form.php:48
+msgid "Contact Form"
+msgstr "فۆڕمی پەیوەندی"
+
+#: includes/contact-form-template.php:211
+msgid "There is a field with input that is shorter than the minimum allowed length"
+msgstr "خانەیێک لە هاوردە  بوونی هیە کە کورتر لە زۆرینەی ڕیپێدانە"
+
+#: includes/contact-form-template.php:204
+msgid "There is a field with input that is longer than the maximum allowed length"
+msgstr "خانەیێک یان فیدێک زۆرتر لە ڕادەی ڕێپێدراوە"
+
+#: includes/contact-form-template.php:197
+msgid "There is a field that the sender must fill in"
+msgstr "کاتێ خانەیەک هەیە کە پێویستە نێرەر پڕی کاتەوە:"
+
+#: includes/contact-form-template.php:190
+msgid "There are terms that the sender must accept"
+msgstr "کاتێ هەندێ مەرج هەن، پێویستە نێرەر پێیان ڕازیبێت:"
+
+#: includes/contact-form-template.php:183
+msgid "Submission was referred to as spam"
+msgstr "کاتێ ملکەچی بە نەخوازراو ئاماژەی پێکرا:"
+
+#: includes/contact-form-template.php:176
+msgid "Validation errors occurred"
+msgstr "کاتێ چەند هەڵەیەکی مەرجی ڕووی دا:"
+
+#: includes/contact-form-template.php:169
+msgid "Sender's message failed to send"
+msgstr "نامەی نێردراو شکستی هێنا بۆ ناردن"
+
+#: includes/contact-form-template.php:162
+msgid "Sender's message was sent successfully"
+msgstr "کاتێ پەیامی نێرەرەکە بەسەرکەوتوویی نێررا:"
+
+#. translators: 1: blog name, 2: blog URL
+#: includes/contact-form-template.php:77 includes/contact-form-template.php:111
+msgid "This e-mail was sent from a contact form on %1$s (%2$s)"
+msgstr "ئەم پۆستە ئەلیکتڕۆنییە نێرراوە لە لایەن فۆڕمێکی پەیوەندییەوە لە %1$s (%2$s)"
+
+#: includes/contact-form-template.php:72 includes/contact-form-template.php:106
+msgid "Message Body:"
+msgstr "دەقی پەیام:"
+
+#. translators: %s: [your-subject]
+#: includes/contact-form-template.php:69
+msgid "Subject: %s"
+msgstr "بابه‌ت: %s"
+
+#. translators: %s: [your-name] <[your-email]>
+#: includes/contact-form-template.php:64
+msgid "From: %s"
+msgstr "لە لایەن: %s"
+
+#: modules/submit.php:26
+msgid "Send"
+msgstr "ناردن"
+
+#: includes/contact-form-template.php:41
+msgid "Your message"
+msgstr "پەیامەکەت"
+
+#: includes/contact-form-template.php:39
+msgid "Your email"
+msgstr "پۆستی ئەلیکتڕۆنیت"
+
+#: includes/contact-form-template.php:38
+msgid "Your name"
+msgstr "ناوت"
+
+#. translators: %s: title of form-tag like 'email' or 'checkboxes'
+#: admin/includes/tag-generator.php:46
+msgid "Form-tag Generator: %s"
+msgstr "دروستکەری تاگەکانی فۆرم%s"
+
+#: admin/includes/help-tabs.php:91
+msgid "For more information:"
+msgstr "بۆ زانیاری فرەتر:"
+
+#: admin/includes/help-tabs.php:83
+msgid "Any information you provide will not be shared with service providers without your authorization."
+msgstr "هیچ زانیاریێک لە لایەن خاوەن خزمەتگوزاری بە ئێوە بۆتان نایێ."
+
+#: admin/includes/help-tabs.php:82
+msgid "You may need to first sign up for an account with the service that you plan to use. When you do so, you would need to authorize Contact Form 7 to access the service with your account."
+msgstr "گەر ئێوە توانایی سود وەرگرتن لەم خزمەتگوزارییەتان هەیە،ئیمکانی هەیە هەژمارەیێکتان پێویست بێت.بە چوونە ژوورەوە لە هەژمارەی خۆتان توانیی سوود وەرگرتن لە فۆرمی پەیوەندی ٧ــی خۆتان دەبێ."
+
+#: admin/includes/help-tabs.php:81
+msgid "On this screen, you can manage services that are available through Contact Form 7. Using API will allow you to collaborate with any services that are available."
+msgstr "لێرە تاگەکان هەن کە لە فۆرمی پەیوەندی ٧ سودییان لێ نابینرێت.فۆرمی پەیوەندی ٧ بە یارمەتی  APIڕێگەتان پێدەداتا لە خزمەتگوزاری بەردەست سوود ببینن."
+
+#: admin/includes/help-tabs.php:79
+msgid "There are also special mail-tags that have specific names, but don&#8217;t have corresponding form-tags. They are used to represent meta information of form submissions like the submitter&#8217;s IP address or the URL of the page."
+msgstr "لێرە تاگەکان هەن کە لە فۆرمی پەیوەندی ٧ سودییان لێ نابینرێت.فۆرمی پەیوەندی ٧ بە یارمەتی IPڕێگەتان پێدەداتا لە خزمەتگوزاری بەردەست سوود ببینن.وە لە ئیمەیلی ناردراوە بوونیان هەیە."
+
+#: admin/includes/help-tabs.php:78
+msgid "A mail-tag is also a short code enclosed in square brackets that you can use in every Mail and Mail (2) field. A mail-tag represents a user input value through an input field of a corresponding form-tag."
+msgstr "تاگی ئیمەیل کورتە کۆدێکە کە لە براکێتی چوارگۆشە سوودی لێدەبینرێت لە هەر ئیمەیل یان یەمەیلی (٢)ـی دیکە."
+
+#: admin/includes/help-tabs.php:76
+msgid "While form-tags have a comparatively complex syntax, you don&#8217;t need to know the syntax to add form-tags because you can use the straightforward tag generator (<strong>Generate Tag</strong> button on this screen)."
+msgstr "لە کاتێک دا تاگەکانی فۆرم ئاڵۆزن،پێویست نییە جۆری لکاندن بە فۆرم بزانن ،هەر بۆیە بەسادەیی دەتوانن لە مەکینەی تاگەکانی فۆرمی پەیوەندی سوود بگرن دوگمەی <strong>بەرهەمهێنانی تاگ</strong> لەم پەڕە نیشان دراوە."
+
+#: admin/includes/help-tabs.php:75
+msgid "A form-tag is a short code enclosed in square brackets used in a form content. A form-tag generally represents an input field, and its components can be separated into four parts: type, name, options, and values. Contact Form 7 supports several types of form-tags including text fields, number fields, date fields, checkboxes, radio buttons, menus, file-uploading fields, CAPTCHAs, and quiz fields."
+msgstr "فۆرمێکی تاگی کورتە کۆد لە براکێتی چوارگۆشە لە فۆرم کەڵکی لێ وەرگیراوە.فۆرمی تاگ بە  گشتی بە چوار بەش دابین دەکرێ: جۆری ناو بژاردەکان. فۆرمی پەیوەندی ٧ پاڵپشتی لە جۆرە جیاوازەکان لە تاگەکان لە دەق،دوگمە،مینۆکا، خشتی بارکردن کەپچا و ئازموون دەکەن."
+
+#: admin/includes/help-tabs.php:73
+msgid "<strong>Additional Settings</strong> provides a place where you can customize the behavior of this contact form by adding code snippets."
+msgstr "<strong>ڕێکخستنی زیادە</strong> لێرە دەتوانن ڕەوشتی فۆرم بە کورتە کۆدەکان بگۆڕن."
+
+#: admin/includes/help-tabs.php:72
+msgid "In <strong>Messages</strong>, you can edit various types of messages used for this contact form. These messages are relatively short messages, like a validation error message you see when you leave a required field blank."
+msgstr "لە <strong>پیام،</strong> جۆرە جیاوازەکان لە پەیامەکان دەستکاری بکەن.ئەم پەیامانە کۆتا،وەک پەیامی نادروستی،یان کاتێک براکێتێک چۆڵ دادەنن."
+
+#: admin/includes/help-tabs.php:71
+msgid "<strong>Mail (2)</strong> is an additional mail template that works similar to Mail. Mail (2) is different in that it is sent only when Mail has been sent successfully."
+msgstr "<strong>ئیمەیلی (٢)</strong>ڕووکاری ئیمەیلی زیادەیە کە هاوشێوەی ئیمەیل ئیشدەکا.. کاتێک ئیمەی بە سەرکەوتوویی ناردرا لەگەڵ ئیمەیل(٢) جیاوازە."
+
+#: admin/includes/help-tabs.php:70
+msgid "<strong>Mail</strong> manages a mail template (headers and message body) that this contact form will send when users submit it. You can use Contact Form 7&#8217;s mail-tags here."
+msgstr "<strong>ئیمەیل</strong> بەڕێوەبردنی ڕووکارێکی ئیلێکترۆنی (سەردێڕ و دەقی پەیام) کە لەم فۆرمە دەنێردرێت ،کاتێک کە بەکارهێنەران دەینێرن. شما دەتوانن ئیمەیلی  تاکە فۆرمی پەیوەندی لێرە 7&#8217;s بەکاربێنن"
+
+#: admin/includes/help-tabs.php:69
+msgid "<strong>Form</strong> is a content of HTML form. You can use arbitrary HTML, which is allowed inside a form element. You can also use Contact Form 7&#8217;s form-tags here."
+msgstr "<strong>فۆرم</strong> ناوەڕۆکی فۆرم HTML ـە. ئێوە دەتوانن دەقی دڵخوازتان لە نێو فۆرم بەکاربێنن. هەر ئێوە دەتوانن فۆرمی پەیوەندی لەگەڵ ئێمە بە فۆرمی پەیوەندی ٧ &#8217;s لە تاگەکانی فۆرم دروست  بکەن."
+
+#: admin/includes/help-tabs.php:68
+msgid "<strong>Title</strong> is the title of a contact form. This title is only used for labeling a contact form, and can be edited."
+msgstr "<strong>سەردیر</strong>سەردێری فۆرمی پەیوەندییە. سەردێری فۆرمی پەیوەندی دەتوانرێت دەستکاری بکرێت و بیگۆڕی."
+
+#: admin/includes/help-tabs.php:67
+msgid "On this screen, you can edit a contact form. A contact form is comprised of the following components:"
+msgstr "لەم پەڕە دەتوانن فۆرمی پەیوەندی دەستکاری بکەن.فۆرمێکی پەیوەندی دروستکراوە لەم بەشانە :"
+
+#: admin/includes/help-tabs.php:65
+msgid "<strong>Duplicate</strong> - Clones that contact form. A cloned contact form inherits all content from the original, but has a different ID."
+msgstr "<strong>ڕوونووسکردن:</strong>فۆرمی پەیوەندی دەتوانی ڕوونووس بکەی بەڵام ناسنامە(ID) جیاوازی دەبێ."
+
+#: admin/includes/help-tabs.php:64
+msgid "<strong>Edit</strong> - Navigates to the editing screen for that contact form. You can also reach that screen by clicking on the contact form title."
+msgstr "<strong>دەستکاری:</strong> دەتوانن بڕۆن بۆ پەڕەی فۆرمی پەیوەندی .هەروەها بۆ ئەم مەبەستە دەتوانن کرتە لەسەر سەردێری فۆرم بکەن."
+
+#: admin/includes/help-tabs.php:63
+msgid "Hovering over a row in the contact forms list will display action links that allow you to manage your contact form. You can perform the following actions:"
+msgstr "بەسەرداڕۆشتنی لیستی فۆرمی پەیوەندی، بەستەرەکانی دیکەت نیشاندەدا  بۆ ڕێکخستنی فۆرمی پەیوەندی. کەدەتوانی لەخوارەوە کردارەکان ببینی:"
+
+#: admin/includes/help-tabs.php:61
+msgid "On this screen, you can manage contact forms provided by Contact Form 7. You can manage an unlimited number of contact forms. Each contact form has a unique ID and Contact Form 7 shortcode ([contact-form-7 ...]). To insert a contact form into a post or a text widget, insert the shortcode into the target."
+msgstr "لەم پەڕە ئێوە دەتوانن فۆرمەکانی پەیوەندی بەڕێوە ببەن،ئێوە دەتوانن بێ سنوور فۆرمی پەیوەندی بەڕێوەببەن.هەر فۆرمی پەیوەندی بە پێناسەیێک(ID) یەکتا بە شێوازی کورتە کۆدە وەک ([contact-form-7 ...]). لەبەردەستە، کەدەتوانن بیخەنە نێو ویجێت،نووسراوەکان،پەڕەکان بۆ مەبەستی تایبەت بە خۆتان."
+
+#: admin/includes/help-tabs.php:40
+msgid "Mail-tags"
+msgstr "تاگی-ئیمەیل"
+
+#: admin/includes/help-tabs.php:35
+msgid "Form-tags"
+msgstr "تاگەکانی فۆرم"
+
+#: admin/includes/help-tabs.php:21
+msgid "Available Actions"
+msgstr "كرداره‌كانی هه‌ن"
+
+#: admin/includes/help-tabs.php:16 admin/includes/help-tabs.php:30
+#: admin/includes/help-tabs.php:49
+msgid "Overview"
+msgstr "پێداچوونه‌وه‌"
+
+#: admin/includes/editor.php:248
+msgid "You can add customization code snippets here. For details, see %s."
+msgstr "ئێوە دەتوانن پارچە کۆدی دڵخوازی لێرە زیادبکەن. بۆ وردەکاری فرەتر%s."
+
+#: admin/includes/editor.php:246
+msgid "https://contactform7.com/additional-settings/"
+msgstr "https://contactform7.com/additional-settings/"
+
+#: admin/includes/editor.php:194
+msgid "File attachments"
+msgstr "پەڕگەی پاشکۆکان"
+
+#: admin/includes/editor.php:188
+msgid "Use HTML content type"
+msgstr "بەکارهێنانی ناوەڕۆکی HTML"
+
+#: admin/includes/editor.php:186
+msgid "Exclude lines with blank mail-tags from output"
+msgstr "سڕینەوەی هێڵ لە تاگەکان"
+
+#: admin/includes/editor.php:181
+msgid "Message body"
+msgstr "ناوەڕۆکی نامه‌"
+
+#: admin/includes/editor.php:172
+msgid "Additional headers"
+msgstr "سه‌ردێره‌ زیاده‌كان"
+
+#: admin/includes/editor.php:163 includes/contact-form-template.php:40
+msgid "Subject"
+msgstr "بابەت"
+
+#: admin/includes/editor.php:154
+msgid "From"
+msgstr "له‌لایه‌ن"
+
+#: admin/includes/editor.php:145
+msgid "To"
+msgstr "بۆ"
+
+#: admin/includes/editor.php:135
+msgid "In the following fields, you can use these mail-tags:"
+msgstr "لە خشتەکانی بەڕەوە دەتوانن لە تاگی ئیمەیل سوود بگرن"
+
+#: admin/includes/editor.php:119
+msgid "Mail (2) is an additional mail template often used as an autoresponder."
+msgstr "ئیمەیلی(٢) ڕووکارێکی زیادەیئیمەیلە کە زۆرتر بۆ وەڵام دانەوەی خۆکار بەکاردەبردرێ."
+
+#: admin/includes/editor.php:85
+msgid "Use Mail (2)"
+msgstr "بەکاربردنی ئیمەیلی(٢)"
+
+#: admin/includes/editor.php:84
+msgid "Mail (2)"
+msgstr "پۆستی ئەلیکتڕۆنی (٢)"
+
+#. translators: date format, see https://www.php.net/date
+#: admin/includes/class-contact-forms-list-table.php:236
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#. translators: %s: title of contact form
+#: admin/includes/class-contact-forms-list-table.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "دەستکاری &#8220;%s&#8221;"
+
+#: admin/includes/class-contact-forms-list-table.php:169
+msgid "Edit"
+msgstr "دەستکاری"
+
+#: admin/includes/class-contact-forms-list-table.php:15
+msgid "Date"
+msgstr "ڕێکەوت"
+
+#: admin/includes/class-contact-forms-list-table.php:14
+msgid "Author"
+msgstr "دانەر"
+
+#: admin/includes/class-contact-forms-list-table.php:13
+msgid "Shortcode"
+msgstr "کورتەکۆد"
+
+#: admin/includes/class-contact-forms-list-table.php:12
+msgid "Title"
+msgstr "سەردێر"
+
+#: admin/edit-contact-form.php:267 admin/includes/editor.php:252
+msgid "Additional Settings"
+msgstr "ڕێکخستنە زیادەکان"
+
+#. translators: %d: number of additional settings
+#: admin/edit-contact-form.php:265
+msgid "Additional Settings (%d)"
+msgstr "ڕێکخستنە زیادەکان (%d)"
+
+#: admin/edit-contact-form.php:245 admin/includes/editor.php:222
+msgid "Messages"
+msgstr "پەیامەکان"
+
+#: admin/edit-contact-form.php:241 admin/includes/editor.php:93
+msgid "Mail"
+msgstr "پۆستی ئەلیکتڕۆنی"
+
+#: admin/edit-contact-form.php:237 admin/includes/editor.php:61
+msgid "Form"
+msgstr "فۆڕم"
+
+#: admin/includes/help-tabs.php:94
+msgid "Support"
+msgstr "پشتگیری"
+
+#: admin/includes/help-tabs.php:94
+msgid "https://contactform7.com/support/"
+msgstr "https://contactform7.com/support/"
+
+#: admin/edit-contact-form.php:193 admin/includes/help-tabs.php:93
+msgid "FAQ"
+msgstr "پرسیارە دووبارەبووەکان"
+
+#: admin/edit-contact-form.php:192 admin/includes/help-tabs.php:93
+msgid "https://contactform7.com/faq/"
+msgstr "https://contactform7.com/faq/"
+
+#: admin/includes/help-tabs.php:92
+msgid "Docs"
+msgstr "یارمەتی"
+
+#: admin/edit-contact-form.php:196 admin/includes/help-tabs.php:92
+msgid "https://contactform7.com/docs/"
+msgstr "https://contactform7.com/docs/"
+
+#: admin/edit-contact-form.php:168
+msgid ""
+"You are about to delete this contact form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"تۆ دەتەوێت ئەم فۆڕمی پەیوەندییە ڕەش بکەیتەوە.\n"
+"\"لابردن\" هەڵبژێرە بۆ ڕاوەستاندن و \"باشە\" بۆ ڕەشکردنەوە."
+
+#: admin/edit-contact-form.php:168
+#: admin/includes/class-contact-forms-list-table.php:90
+msgid "Delete"
+msgstr "ڕەشکردنەوە"
+
+#: admin/edit-contact-form.php:153
+#: admin/includes/class-contact-forms-list-table.php:187
+msgid "Duplicate"
+msgstr "له‌به‌رگرتنه‌وه‌"
+
+#: admin/edit-contact-form.php:139
+msgid "Status"
+msgstr "بار"
+
+#: admin/edit-contact-form.php:125
+msgid "You can also use this old-style shortcode:"
+msgstr "ئێوە هەروەها دەتوانن لە کۆدی کۆنە سوود بگرن:"
+
+#: admin/edit-contact-form.php:118
+msgid "Copy this shortcode and paste it into your post, page, or text widget content:"
+msgstr "ئەم کورتە کلیلە ڕوونووس بکەن ئینجا بیخەنە نێو ناوەڕۆکی ویجێتەکانی بابەت،پەڕە یان دەق:"
+
+#: admin/edit-contact-form.php:95
+msgid "Enter title here"
+msgstr "ناونیشان لێرە بنوسە"
+
+#: admin/edit-contact-form.php:26 admin/edit-contact-form.php:146
+msgid "Save"
+msgstr "پاشەکەوتکردن"
+
+#: admin/admin.php:673
+msgid "You are not allowed to edit this contact form."
+msgstr "ڕێگە پێنەدراوە دەستکاری ئەم فۆرمە پەیوەندییە بکەن."
+
+#: admin/includes/welcome-panel.php:125
+msgid "https://contactform7.com/save-submitted-messages-with-flamingo/"
+msgstr "https://contactform7.com/save-submitted-messages-with-flamingo/"
+
+#: admin/includes/welcome-panel.php:60
+msgid "https://contactform7.com/spam-filtering-with-akismet/"
+msgstr "https://contactform7.com/spam-filtering-with-akismet/"
+
+#: admin/includes/editor.php:129
+msgid "Setting up mail"
+msgstr "ڕێکخستنەکانی ئیمەیڵ"
+
+#: admin/includes/editor.php:128
+msgid "https://contactform7.com/setting-up-mail/"
+msgstr "https://contactform7.com/setting-up-mail/"
+
+#: admin/includes/welcome-panel.php:96
+msgid "https://contactform7.com/donate/"
+msgstr "https://contactform7.com/donate/"
+
+#: admin/includes/welcome-panel.php:85
+msgid "Contact Form 7 needs your support."
+msgstr "گەشەپێدەرانی زیادکراوەی فۆرمی پەیوەندی٧ به  یارمەتی ئێوە نیازیان هەیە."
+
+#: admin/includes/welcome-panel.php:216
+msgid "Dismiss"
+msgstr "پاشگه‌زبونه‌وه‌"
+
+#. translators: 1: version of Contact Form 7, 2: version of WordPress, 3: URL
+#: admin/admin.php:649
+msgid "<strong>Contact Form 7 %1$s requires WordPress %2$s or higher.</strong> Please <a href=\"%3$s\">update WordPress</a> first."
+msgstr "<strong>فۆڕمی پەیوەندی ٧ %1$s وۆردپرێس %2$s یان بەرزتری دەوێت.</strong> تکایە یەکەمین جار <a href=\"%3$s\">وۆردپرێس نوێ بکەوە</a>."
+
+#: admin/admin.php:626
+msgid "Settings"
+msgstr "ڕێکخستنەکان"
+
+#: admin/admin.php:555
+msgid "Contact form deleted."
+msgstr "فۆڕمی پەیوەندی ڕەشکرایەوە."
+
+#: admin/admin.php:553
+msgid "Contact form saved."
+msgstr "فۆڕمی پەیوەندی پاشەکەوتکرا."
+
+#: admin/admin.php:551
+msgid "Contact form created."
+msgstr "فۆڕمی پەیوەندی دروستکرا."
+
+#: admin/admin.php:448
+msgid "Search Contact Forms"
+msgstr "گەڕان لە فۆڕمەکانی پەیوەندی"
+
+#. translators: %s: search keywords
+#: admin/admin.php:425
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "ئەنجامەکانی گەڕان بۆ &#8220;%s&#8221;"
+
+#: admin/admin.php:144
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "له‌ كاتی چوونه‌ ده‌ره‌وه‌ له‌م په‌ڕه‌دا گۆڕانكاریه‌كان پاشه‌كه‌وت ناكرێن ."
+
+#: admin/admin.php:330
+msgid "Error in deleting."
+msgstr "هەڵەیەک ڕووی دا لە کاتی ڕەشکردنەوە."
+
+#: admin/admin.php:325
+msgid "You are not allowed to delete this item."
+msgstr "ڕێگە پێنەدراوی ئەم بڕگەیە ڕەش بکەیتەوە."
+
+#: admin/admin.php:217 admin/admin.php:281
+msgid "You are not allowed to edit this item."
+msgstr "ڕێگە پێنەدراوی دەستکاری ئەم بڕگەیە بکەیت."
+
+#: admin/admin.php:66
+msgid "Integration"
+msgstr "تەواوکردن"
+
+#: admin/admin.php:52 admin/admin.php:416 admin/edit-contact-form.php:47
+msgid "Add New"
+msgstr "زیادکردن"
+
+#: admin/admin.php:51 admin/edit-contact-form.php:36
+msgid "Add New Contact Form"
+msgstr "فۆرمی نوێ زیاد بكه‌."
+
+#: admin/admin.php:41 admin/admin.php:409 includes/contact-form.php:47
+msgid "Contact Forms"
+msgstr "فۆڕمەکانی پەیوەندی"
+
+#: admin/admin.php:40 admin/edit-contact-form.php:38
+msgid "Edit Contact Form"
+msgstr "ده‌ستكاری كردنی فۆرمی په‌یوه‌ندی"
+
+#: admin/admin.php:30
+msgid "Contact"
+msgstr "پەیوەندی"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:29 modules/flamingo.php:208 includes/block-editor/index.js:1
+msgid "Contact Form 7"
+msgstr "فۆڕمی پەیوەندی ٧"
